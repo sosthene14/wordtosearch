@@ -1,0 +1,74 @@
+body
+{
+    overflow-x: hidden;
+}
+#my-links
+{
+    color: white;
+}
+#my-links:hover
+{
+    color: rgb(219, 232, 39);
+}
+#my-logo
+{
+    color: white;
+}
+#active
+{
+    color: rgb(219, 232, 39);
+}
+#textarea
+{
+    resize: none;
+}
+#label-and-textarea-div
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+#my-label
+{
+font-size: 1.4em;
+font-weight: bold;
+}
+#my-submit-btn
+{
+    margin-top: 20px;
+    transition: all 1s;
+}
+#my-submit-btn:hover
+{
+    background-color: blueviolet;
+}
+#div-of-textarea
+{
+    margin: auto;
+}
+#div-of-input
+{
+    margin: auto;
+}
+#word_to_search
+{
+    margin-top: 20px;
+}
+.text_for_informations
+{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 1.3em;
+}
+.banner
+{
+    width: 1800px;
+    height: 200px;
+    background-color:  #2d3134;
+}
+.my_container
+{
+    margin-top: auto;
+    widows: 300px;
+}
